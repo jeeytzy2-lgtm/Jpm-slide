@@ -1,13 +1,13 @@
 {
-  "name": "Kuroko",
+  "name": "Jeeyhosting",
   "version": "6.2.3",
-  "description": "Bot whatsapp broadcast terbaik dari NS Team",
+  "description": "Bot whatsapp broadcast terbaik dari Jeeyhosting",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zass Desuta",
+  "author": "Jeeyhosting",
   "license": "MIT",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
